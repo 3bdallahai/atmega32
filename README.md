@@ -6,7 +6,7 @@ USART
 SPI
 External interrupts
 Timer
-watchdogTimer
+watchdog timer
 PWM
 LCD
 Keypad
